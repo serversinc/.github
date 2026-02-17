@@ -13,9 +13,9 @@ No license fees. No per-server tolls. No vendor lock-in. Just software you own.
 | | Component | Description |
 |---|---|---|
 | 🚢 | [**Core**](https://github.com/serversinc/core) | The main attraction. Provision, manage, and deploy Servers, Applications, Databases, and more. |
-| 🤖 | [**Agent**](https://github.com/serversinc/agent) | A lightweight daemon (Tugboat) that runs on each managed server. Handles provisioning, monitoring, service management, and secure communication with Core. |
+| 🤖 | [**Agent**](https://github.com/serversinc/agent) | A lightweight daemon that runs on each managed server.  |
 | 🚀 | [**Installers**](https://github.com/serversinc/installers) | One-command setup for deploying Core or Agent on any server. |
-| 💳 | [**Billing**](https://github.com/serversinc/billing) | A modern WHMCS replacement. Client management, invoicing, subscriptions, provisioning, and payment gateway integration — without the fees or the decade-old UI. |
+| 💳 | [**Billing**](https://github.com/serversinc/billing) | Invoicing, subscriptions, client management, and payment gateways, done properly. |
 | 🧑‍💻 | [**Cli**](https://github.com/serversinc/cli) | A first-class command-line interface for Core. Automate provisioning, query your fleet, script anything Serversinc can do. |
 
 ---
