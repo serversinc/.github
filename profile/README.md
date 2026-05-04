@@ -17,6 +17,7 @@ No license fees. No per-server tolls. No vendor lock-in. Just software you own.
 | 🚀 | [**Installers**](https://github.com/serversinc/installers) | One-command setup for deploying Core or Agent on any server. |
 | 💳 | [**Billing**](https://github.com/serversinc/billing) | Invoicing, subscriptions, client management, and payment gateways, done properly. |
 | 🧑‍💻 | [**Cli**](https://github.com/serversinc/cli) | A first-class command-line interface for Core. Automate provisioning, query your fleet, script anything Serversinc can do. |
+| 🏰 | [**Bishop**](https://github.com/serversinc/bishop) | A Docker Event relay that forwards events to a Webhook endpoint |
 
 ---
 
